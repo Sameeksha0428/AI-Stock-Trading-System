@@ -1,6 +1,6 @@
 # NeuralTrade — AI Stock Trading System
 
-A full-stack AI trading dashboard powered by Reinforcement Learning (PPO) and a dark fintech web interface.
+A full-stack AI trading dashboard powered by Reinforcement Learning (PPO).
 
 ## Project Structure
 
